@@ -30,5 +30,7 @@
 
 ### 1. Connect to the server
 
+For this game I will be using Windows and Putty. You can download putty at https://www.putty.org/. Its an SSH and Telnet client that we will use to connect to OTW.
+
 ```bash
 ssh banditX@bandit.labs.overthewire.org -p 2220
