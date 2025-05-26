@@ -1,23 +1,20 @@
-# Over-The-Wire-Bandit-level-0---5
-
 # OverTheWire – Bandit Level 0
 
 **Challenge URL:**  
-[https://overthewire.org/wargames/Bandit/Level0](https://overthewire.org/wargames/bandit/)
+[https://overthewire.org/wargames/bandit/](https://overthewire.org/wargames/bandit/)
 
 ---
 
 ## 🧠 Goal
 
-> Describe the level objective here.  
-> Example: *Gain access to the next level by finding and reading a specific file.*
+> The goal of this level is for you to log into the game using SSH. The host to which you need to connect is bandit.labs.overthewire.org, on port 2220. The username is bandit0 and the password is bandit0. Once logged in, go to the Level 1 page to find out how to beat Level 1.
 
 ---
 
 ## 🔑 Credentials
 
-- **Username:** `banditX`
-- **Password:** `********`
+- **Username:** `bandit0`
+- **Password:** `bandit0`
 - **Host:** `bandit.labs.overthewire.org`
 - **Port:** `2220`
 
