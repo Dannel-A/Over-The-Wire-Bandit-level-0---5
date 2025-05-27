@@ -38,11 +38,11 @@ The first thing I did was to open up Putty.
 ![2025-05-27_12-46](https://github.com/user-attachments/assets/8bec0c44-739c-40c7-9707-d3abfede54f3)
 
 As you can see in the image above you can input the host name and the port number that was given to us. The host name is bandit.labs.overthewire.org and the port number we will be using is 2220
-make sure the connection type is set to SSH and the click Open. A termninal window will appear and ask us for our login. The login name that was given to use is bandit0, the password is the same as the username.
+make sure the connection type is set to SSH and the click Open. A termninal window will appear and ask us for our login. The login name that was given to us is bandit0, the password is the same as the username.
 
 ![logon](https://github.com/user-attachments/assets/a40d9804-dcd0-4694-9e0f-a58ec6a4cea7)
 
-After you type in the password and press enter you will be successfully logged
+After you type in the password and press enter you will be successfully logged in
 
 ![2025-05-27_12-50](https://github.com/user-attachments/assets/7fa75eba-4453-4ceb-be29-4ddbc6c5da7a)
 
