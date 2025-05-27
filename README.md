@@ -24,13 +24,13 @@
 
 `ssh`
 ---
-
+<br><br><br><br>
 ## 📜 Step-by-Step Solution
 
 For this game I will be using Windows and Putty. You can download putty at https://www.putty.org/. Its an SSH and Telnet client that we will use to connect to OTW.
 
 ![64bitputty](https://github.com/user-attachments/assets/38c549e3-6efd-4c3f-8db4-3c827706aae6)
-
+<br><br><br><br>
 ### 1. Connect to the server
 
 The first thing I did was to open up Putty.
@@ -39,11 +39,11 @@ The first thing I did was to open up Putty.
 
 As you can see in the image above you can input the host name and the port number that was given to us. The host name is bandit.labs.overthewire.org and the port number we will be using is 2220
 make sure the connection type is set to SSH and the click Open. A termninal window will appear and ask us for our login. The login name that was given to us is bandit0, the password is the same as the username.
-
+<br><br><br><br>
 ![logon](https://github.com/user-attachments/assets/a40d9804-dcd0-4694-9e0f-a58ec6a4cea7)
 
 After you type in the password and press enter you will be successfully logged in
-
+<br><br><br><br>
 ![2025-05-27_12-50](https://github.com/user-attachments/assets/7fa75eba-4453-4ceb-be29-4ddbc6c5da7a)
 
 On the bottom left you can see that we have logged in as the user bandit0
